@@ -26,24 +26,24 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "DimasBotz" //namabot kalian
-global.ownername= "𝐃𝐈𝐌𝐀𝐒 𝐓𝐎𝐊𝐈𝐒𝐀𝐊𝐈" //nama kalian
+global.botname = "DIKABOT" //namabot kalian
+global.ownername= "DIKAA CHANNEL" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g" //bebas asal jan hapus
-global.myweb2 = "https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y=" //bebas
-global.email = "leviadnansyahlevi@gmail.com" //bebas
+global.youtube = "https://youtube.com/channel/UCuVs6zWbLPzk0nNlt_hHUrg" //bebas asal jan hapus
+global.myweb2 = "DIKAA CHANNEL" //bebas
+global.email = "andikaanya4@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6283169648444'] //premium user
-global.owner = ["6283169648444","6283169648444"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6283169648444" // nomor wa kalian
-global.ownernomerr = "6283169648444" //nmr wa kalian
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
+global.premium = ['6285770575380'] //premium user
+global.owner = ["6285770575380","6285692594570"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285770575380" // nomor wa kalian
+global.ownernomerr = "6285692594570" //nmr wa kalian
+global.thumbnail = "https://h.top4top.io/p_251844y3e0.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "https://l.top4top.io/p_2518rsbby0.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '© DimasBotz' //sticker wm ubah
-global.author = 'Di Buat Oleh 𝐃𝐈𝐌𝐀𝐒 𝐓𝐎𝐊𝐈𝐒𝐀𝐊𝐈' //sticker wm ganti nama kalian
+global.author = 'Di Buat Oleh *DIKAA CHANNEL*' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
